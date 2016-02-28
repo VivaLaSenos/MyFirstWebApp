@@ -1,0 +1,23 @@
+.body {
+    background-color: black;
+}
+
+.head1 {
+    text-align: center;
+    color: red;
+}
+
+.head2 {
+    text-align: center;
+    color: white;
+}
+
+.inputText {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.submitBtn {
+    text-align: center;
+    font-size: 20px;
+}
